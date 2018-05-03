@@ -1,0 +1,25 @@
+# PRE-REQUIS
+
+Afin de compiler yamc vous aurez besoin de:
+  * meson, un "build system"
+  * ninja, un équivalent de make beaucoup plus rapide
+  * glfw pour gérer les fenêtres de façon portable
+  * glew pour avoir 
+  * libpng afin de pouvoir lire les textures
+  * un équivalent de pthread et libmath
+
+# COMPILATION
+
+  1. Ouvrez un terminal dans le répertoire racine de yamc
+  2. `$ meson build`
+  3. `$ cd build`
+  4. `$ ninja`
+
+# LANCEMENT
+
+Dans le dossier racine de yamc, tapez la commande `$ build/yamc`
+
+
+## Visualisation de la compilation et du lancement
+
+https://asciinema.org/a/PCPreICpzNln9bCsykFIR28wH

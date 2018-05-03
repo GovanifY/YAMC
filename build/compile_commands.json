@@ -1,0 +1,47 @@
+[
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_cube.c.o' -MF 'yamc@exe/src_cube.c.o.d' -o 'yamc@exe/src_cube.c.o' -c ../src/cube.c",
+    "file": "../src/cube.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_item.c.o' -MF 'yamc@exe/src_item.c.o.d' -o 'yamc@exe/src_item.c.o' -c ../src/item.c",
+    "file": "../src/item.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_draw.c.o' -MF 'yamc@exe/src_draw.c.o.d' -o 'yamc@exe/src_draw.c.o' -c ../src/draw.c",
+    "file": "../src/draw.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_main.c.o' -MF 'yamc@exe/src_main.c.o.d' -o 'yamc@exe/src_main.c.o' -c ../src/main.c",
+    "file": "../src/main.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_map.c.o' -MF 'yamc@exe/src_map.c.o.d' -o 'yamc@exe/src_map.c.o' -c ../src/map.c",
+    "file": "../src/map.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_physics.c.o' -MF 'yamc@exe/src_physics.c.o.d' -o 'yamc@exe/src_physics.c.o' -c ../src/physics.c",
+    "file": "../src/physics.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_util.c.o' -MF 'yamc@exe/src_util.c.o.d' -o 'yamc@exe/src_util.c.o' -c ../src/util.c",
+    "file": "../src/util.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_world.c.o' -MF 'yamc@exe/src_world.c.o.d' -o 'yamc@exe/src_world.c.o' -c ../src/world.c",
+    "file": "../src/world.c"
+  },
+  {
+    "directory": "/home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build",
+    "command": "ccache cc -Iyamc@exe -I. -I.. -I/usr/include/libdrm -I/usr/include/libpng16 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c11 -O0 -g -pthread -D_GNU_SOURCE  -MD -MQ 'yamc@exe/src_noise.c.o' -MF 'yamc@exe/src_noise.c.o.d' -o 'yamc@exe/src_noise.c.o' -c ../src/noise.c",
+    "file": "../src/noise.c"
+  }
+]

@@ -1,0 +1,51 @@
+Build started at 2018-05-03T19:59:38.640305
+Main binary: /usr/bin/python3.6
+Python system: Linux
+The Meson build system
+Version: 0.46.0
+Source dir: /home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC
+Build dir: /home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build
+Build type: native build
+Project name: yamc
+Sanity testing C compiler: ccache cc
+Is cross compiler: False.
+Sanity check compiler command line: ccache cc /home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build/meson-private/sanitycheckc.c -o /home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/govanify/Documents/PROJECTS/WORK/L2/S2/2I013/PROJET/YAMC/build/meson-private/sanitycheckc.exe
+Native C compiler: ccache cc (gcc 7.3.0 "gcc (Gentoo 7.3.0-r1 p1.1) 7.3.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'glfw3' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glfw3 found: YES 3.2.1
+Determining dependency 'glew' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glew found: YES 2.1.0
+Determining dependency 'libpng' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency libpng found: YES 1.6.34
+Dependency threads found: YES
+Running compile:
+Working directory:  /tmp/tmpo5ezg635
+Command line:  ccache cc /tmp/tmpo5ezg635/testfile.c -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmpo5ezg635/output.exe -O0 -Wl,--start-group -lm -Wl,--end-group 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library m found: YES
+Program clang-format found: YES (/usr/lib/llvm/6/bin/clang-format)
+Running command: /usr/lib/llvm/6/bin/clang-format -i src/*
+--- stdout----
+
+----stderr----
+No such file or directory
+
+
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja

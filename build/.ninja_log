@@ -1,0 +1,11 @@
+# ninja log v5
+2	69	1525370384	yamc@exe/src_map.c.o	e87a58b1d6a1cba9
+0	393	1525370384	yamc@exe/src_item.c.o	914f172b704bc4d
+0	503	1525370384	yamc@exe/src_cube.c.o	d54e49c0c7160b86
+6	514	1525370384	yamc@exe/src_physics.c.o	e83260c915f43be6
+70	554	1525370384	yamc@exe/src_util.c.o	9e1b079c819ef482
+1	568	1525370384	yamc@exe/src_draw.c.o	ae5681949e158a04
+503	590	1525370384	yamc@exe/src_noise.c.o	2b879e1c0092b71b
+1	600	1525370384	yamc@exe/src_main.c.o	150629ce491c652b
+393	659	1525370385	yamc@exe/src_world.c.o	dacf8272cde5c8df
+659	988	1525370385	yamc	1bb9f7163b73105
